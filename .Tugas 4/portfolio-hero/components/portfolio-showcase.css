@@ -1,0 +1,67 @@
+.portfolio-row {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  margin: 2rem 0;
+  padding: 1rem 0;
+}
+
+.portfolio-track {
+  display: flex;
+  width: fit-content;
+}
+
+.portfolio-row .portfolio-track {
+  animation: scroll 40s linear infinite;
+}
+
+.portfolio-row.reverse .portfolio-track {
+  animation: scroll-reverse 40s linear infinite;
+}
+
+.portfolio-item {
+  flex: 0 0 auto;
+  width: 500px;
+  padding: 0 1rem;
+}
+
+.portfolio-image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  transition: transform 0.3s ease;
+}
+
+.portfolio-image:hover {
+  transform: translateY(-5px);
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-100% / 2));
+  }
+}
+
+@keyframes scroll-reverse {
+  0% {
+    transform: translateX(calc(-100% / 2));
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Pause animation on hover */
+.portfolio-row:hover .portfolio-track {
+  animation-play-state: paused;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .portfolio-item {
+    width: 300px;
+  }
+}
