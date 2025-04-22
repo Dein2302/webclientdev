@@ -1,6 +1,6 @@
 # WorkoutAja Fitness Website
 
-[![Watch the video](https://img.youtube.com/vi/Fc_Hc1y2gcY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fc_Hc1y2gcY)
+https://github.com/user-attachments/assets/7eefd281-99fc-4313-a427-237fd362368e
 
 A simple, clean fitness website built with HTML and CSS. The site features a hero section with motivational text and a call-to-action to contact the business.
 
