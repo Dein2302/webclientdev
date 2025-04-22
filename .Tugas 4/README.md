@@ -1,8 +1,6 @@
 ### Portfolio Website
 
-[![Watch the video](https://img.youtube.com/vi/Fc_Hc1y2gcY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fc_Hc1y2gcY)
-
-https://github.com/user-attachments/assets/7590a72d-d177-4d0d-96d1-21595b7e30e3
+https://github.com/user-attachments/assets/35098808-dd86-49ad-8146-7fe273dc0b3a
 
 A modern and responsive portfolio website built with Next.js, Vite, and Tailwind CSS. The site features a dynamic hero section with running text, an infinite scrolling portfolio showcase, an interactive menu overlay, and a clean, minimalist design.
 
