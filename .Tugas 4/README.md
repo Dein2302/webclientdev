@@ -2,7 +2,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/Fc_Hc1y2gcY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fc_Hc1y2gcY)
 
-A modern, responsive portfolio website built with Next.js and Tailwind CSS, featuring a dynamic hero section with running text, infinite scrolling portfolio showcase, interactive menu overlay, and a clean design aesthetic.
+A modern and responsive portfolio website built with Next.js, Vite, and Tailwind CSS. The site features a dynamic hero section with running text, an infinite scrolling portfolio showcase, an interactive menu overlay, and a clean, minimalist design.
 
 ## 🚀 Features
 
