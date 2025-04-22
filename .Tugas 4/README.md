@@ -1,6 +1,6 @@
 ### Portfolio Website
 
-[![Watch the video](https://github.com/user-attachments/assets/74339512-f15f-4779-a632-a3f17e10b06b)](https://files.catbox.moe/du1w34.mp4)
+https://github.com/Dein2302/webclientdev/blob/main/.Tugas%204/index.html
 
 A modern, responsive portfolio website built with Next.js and Tailwind CSS, featuring a dynamic hero section with running text, infinite scrolling portfolio showcase, interactive menu overlay, and a clean design aesthetic.
 
