@@ -26,21 +26,18 @@ A modern, responsive portfolio website built with Next.js and Tailwind CSS, feat
 ## ⚙️ Installation
 
 Clone the repository:
-
+```
 git clone https://github.com/Dein2302/webclientdev.git
 cd webclientdev/.Tugas 4/portfolio-hero
 ```
-
 Install dependencies:
-
+```
 npm install
 ```
-
 Start the development server:
-
+```
 npm run dev
 ```
-
 Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 📱 Key Sections
