@@ -20,9 +20,8 @@ A modern, responsive portfolio website built with Next.js and Tailwind CSS, feat
 
 - Next.js 14
 - React.js
+- Vite
 - Tailwind CSS
-- Lucide React Icons
-- Next/Image for optimized images
 - CSS Animations
 
 ## ⚙️ Installation
